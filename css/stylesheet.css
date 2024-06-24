@@ -1,0 +1,9 @@
+﻿@font-face {
+  font-family: 'PhotexDecorativeFont';
+  src: url("../fonts/Photex.eot");
+  src: url("../fonts/Photex.eot") format("embedded-opentype"), 
+       url("../fonts/Photex.woff") format("woff"), 
+       url("../fonts/Photex.ttf") format("truetype"), 
+       url("../fonts/Photex.svg") format("svg");
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
